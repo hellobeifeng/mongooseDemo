@@ -1,0 +1,33 @@
+.form span {
+  display: inline-block;
+  float: left;
+  width: 100px;
+  text-align: right;
+}
+
+.form_line_right {
+  float: right;
+  text-align: left;
+  width: 500px;
+}
+
+.row {
+  height: 50px;
+  border-bottom: 1px solid #ccc;
+  line-height: 50px;
+}
+
+input {
+  color: blue;
+}
+
+textarea {
+  color: blue;
+}
+
+.form {
+  border: 2px solid #dfdfdf;
+  background-color: #fff;
+  width: 1010px;
+  padding: 10px auto
+}
